@@ -72,7 +72,7 @@ https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg0
 http://88.212.15.47/live/test_ta3_25p/playlist.m3u8
 #EXTINF:15,CNN Prima
 http://88.212.15.47/live/test_cnn_pirma_news/playlist.m3u8
-#EXTINF:28,CT 1  HD
+#EXTINF:-1 tvg-id="CT1.cz",CT 1 HD
 http://88.212.15.47/live/test_ct1_25p/playlist.m3u8
 #EXTINF:26,CT 2  HD
 http://88.212.15.47/live/test_ct2_25p/playlist.m3u8
